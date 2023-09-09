@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/paulmrsn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Profile" height="30" width="30" /></a>
   &emsp;&emsp;
-  <a href="https://twitter.com/paulmrsn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter Profile" height="30" width="30" /></a>
+  <a href="https://x.com/paulmrsn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X(Formerly Twitter) Profile" height="30" width="30" /></a>
 </div>
 
 <p>&thinsp;</p>
