@@ -4,7 +4,7 @@
 <p>&thinsp;</p>
 
 <ul>
-  <li><p>🔭 I’m currently working as an Engineering Lead at <a href="https://www.thg.com/" target="_blank" rel="noreferrer">THG</a></p></li>
+  <li><p>🔭 I’m currently working as a Senior Software Engineer at <a href="https://www.roku.com/" target="_blank" rel="noreferrer">Roku</a></p></li>
   <li><p>🌱 I’m currently learning about new Frontend Technologies and playing with my <a href="https://www.reddit.com/r/homelab/" target="_blank" rel="noreferrer">Homelab</a></p></li>
   <li><p>📫 You can reach me at: <a href="mailto:hi@paulmrsn.com">hi@paulmrsn.com</a></p></li>
   <li><p>🏞 Have a look at my personal corner of the Internet: <a href="https://paulmrsn.com" target="_blank">paulmrsn.com</a></p></li>
